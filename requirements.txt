@@ -123,4 +123,5 @@ urllib3==1.26.8
 virtualenv==20.13.2
 wcwidth==0.1.9
 wemake-python-styleguide==0.14.1
+whitenoise==6.0.0
 yarg==0.1.9
