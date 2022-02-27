@@ -5,7 +5,7 @@ from api.views import documentation, query
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', documentation),
+    # path(''),
     path('api/v1/', include("api.urls")),
     path('query/', query),
 ]
